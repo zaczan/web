@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: zaczan.com
+Token: 8eae7fb944ef0f632e28f025f6b45f9ed42579a02a5a36baaa69a12a565d8ef4
